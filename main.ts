@@ -12,6 +12,4 @@ function wylosuj_liste (dlugosc_listy: number) {
 let b = 0
 let list: number[] = []
 list = []
-basic.forever(function () {
-	
-})
+posortuj()
